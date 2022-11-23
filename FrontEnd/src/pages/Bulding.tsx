@@ -1,11 +1,11 @@
 import type {Component} from 'solid-js';
 
-const NavBar: Component = () => {
+const Bulding: Component = () => {
     return (
         <div>
-
+            <h1>Construction</h1>
         </div>
     );
 };
 
-export default NavBar;
+export default Bulding;
